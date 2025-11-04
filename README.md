@@ -2,6 +2,9 @@
 
 一个基于uni-app框架开发的移动端IOT设备管理应用，支持设备绑定、状态监控、数据可视化和MQTT通信。
 
+B站演示视频：
+【使用Trae快速开发的一个物联网小应用】 https://www.bilibili.com/video/BV1x41qBbEny/?share_source=copy_web&vd_source=e0f0f539ed0104775e36ce35b1dcfc9c
+
 ## 功能特性
 
 ### 🏠 主界面数据看板
